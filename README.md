@@ -21,13 +21,13 @@ the customer to book a car for the journey.</p>
 <h3>Snapshots</h3>
 <img align="center" alt="PIC" width="800px" height="500px" src="/images/1.jpg" />
 <br>
-<img align="center" alt="PIC" width="300px" height="250px" src="/images/2.jpg" />
+<img align="center" alt="PIC" width="800px" height="500px" src="/images/2.jpg" />
 <br>
-<img align="center" alt="PIC" width="300px" height="250px" src="/images/3.jpg" />
+<img align="center" alt="PIC" width="800px" height="500px" src="/images/3.jpg" />
 <br>
-<img align="center" alt="PIC" width="300px" height="250px" src="/images/4.jpg" />
+<img align="center" alt="PIC" width="800px" height="500px" src="/images/4.jpg" />
 <br>
-<img align="center" alt="PIC" width="300px" height="250px" src="/images/5.jpg" />
+<img align="center" alt="PIC" width="800px" height="500px" src="/images/5.jpg" />
 <br>
-<img align="center" alt="PIC" width="300px" height="250px" src="/images/6.jpg" />
+<img align="center" alt="PIC" width="800px" height="500px" src="/images/6.jpg" />
 <br>
