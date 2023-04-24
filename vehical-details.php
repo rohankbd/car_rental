@@ -35,7 +35,7 @@ $query->execute();
 $lastInsertId = $dbh->lastInsertId();
 if($lastInsertId)
 {
-echo "<script>alert('Booking successfull.');</script>";
+echo "<script>alert('Booking successfull,Thankyou for choosing us ,you will shortly recieve a call from RMR Rentals.');</script>";
 echo "<script type='text/javascript'> document.location = 'my-booking.php'; </script>";
 }
 else 
@@ -160,6 +160,10 @@ $_SESSION['brndid']=$result->bid;
             <li> <i class="fa fa-user-plus" aria-hidden="true"></i>
               <h5><?php echo htmlentities($result->SeatingCapacity);?></h5>
               <p>Seats</p>
+            </li>
+              <li> <i class="fa-solid fa-car"  aria-hidden="true"></i>
+              <h5><?php echo htmlentities($result->Stocks);?></h5>
+              <p>Stocks</p>
             </li>
           </ul>
         </div>
@@ -404,6 +408,7 @@ foreach($results as $result)
              <li><i class="fa fa-user" aria-hidden="true"></i><?php echo htmlentities($result->SeatingCapacity);?> seats</li>
                 <li><i class="fa fa-calendar" aria-hidden="true"></i><?php echo htmlentities($result->ModelYear);?> model</li>
                 <li><i class="fa fa-car" aria-hidden="true"></i><?php echo htmlentities($result->FuelType);?></li>
+                  <li><i class="fa fa-car" aria-hidden="true"></i><?php echo htmlentities($result->Stocks);?></li>
               </ul>
             </div>
           </div>

@@ -166,22 +166,22 @@ foreach($results as $result)
               <label class="control-label">Phone Number</label>
               <input class="form-control white_bg" name="mobilenumber" value="<?php echo htmlentities($result->ContactNo);?>" id="phone-number" type="text" required>
             </div>
-            <div class="form-group">
+            <!-- <div class="form-group">
               <label class="control-label">Date of Birth&nbsp;(dd/mm/yyyy)</label>
               <input class="form-control white_bg" value="<?php echo htmlentities($result->dob);?>" name="dob" placeholder="dd/mm/yyyy" id="birth-date" type="text" >
-            </div>
+            </div> -->
             <div class="form-group">
               <label class="control-label">Your Address</label>
               <textarea class="form-control white_bg" name="address" rows="4" ><?php echo htmlentities($result->Address);?></textarea>
             </div>
-            <div class="form-group">
+            <!-- <div class="form-group">
               <label class="control-label">Country</label>
               <input class="form-control white_bg"  id="country" name="country" value="<?php echo htmlentities($result->City);?>" type="text">
-            </div>
-            <div class="form-group">
+            </div> -->
+            <!-- <div class="form-group">
               <label class="control-label">City</label>
               <input class="form-control white_bg" id="city" name="city" value="<?php echo htmlentities($result->City);?>" type="text">
-            </div>
+            </div> -->
             <?php }} ?>
            
             <div class="form-group">

@@ -135,7 +135,9 @@ foreach($results as $result)
                   <div style="float: left"><p><b>Message:</b> <?php echo htmlentities($result->message);?> </p></div>
                 </div>
                 <?php if($result->Status==1)
-                { ?>
+
+                    { ?>
+                 
                 <div class="vehicle_status"> <a href="#" class="btn outline btn-xs active-btn">Confirmed</a>
                            <div class="clearfix"></div>
         </div>
