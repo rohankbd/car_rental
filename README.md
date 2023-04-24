@@ -27,7 +27,7 @@ the customer to book a car for the journey.</p>
 <br>
 <img align="center" alt="PIC" width="800px" height="500px" src="/images/4.jpg" />
 <br>
-<img align="center" alt="PIC" width="800px" height="500px" src="/images/5.jpg" />
+<img align="center" alt="PIC" width="800px" height="500px" src="/images/5.png" />
 <br>
-<img align="center" alt="PIC" width="800px" height="500px" src="/images/6.jpg" />
+<img align="center" alt="PIC" width="800px" height="500px" src="/images/6.png" />
 <br>
