@@ -19,7 +19,7 @@ the customer to book a car for the journey.</p>
 </ul>
 
 <h3>Snapshots</h3>
-<img align="center" alt="PIC" width="300px" height="250px" src="/images/1.jpg" />
+<img align="center" alt="PIC" width="600px" height="500px" src="/images/1.jpg" />
 <br>
 <img align="center" alt="PIC" width="300px" height="250px" src="/images/2.jpg" />
 <br>
